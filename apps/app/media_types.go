@@ -6,6 +6,6 @@
 // $ goagen
 // --design=github.com/aya-eiya/goa-test/design/app
 // --out=$(GOPATH)/src/github.com/aya-eiya/goa-test/apps
-// --version=v1.4.0
+// --version=v1.3.1
 
 package app
